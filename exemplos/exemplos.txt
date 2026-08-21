@@ -22,3 +22,12 @@ print(np.max(arr)) # máximo → 9
 print(np.sum(arr, axis=0)) # soma por coluna → [12 15 18] 
 print(np.sum(arr, axis=1)) # soma por linha → [6 15 24]
 
+print("---------")
+
+x = np.array([0, np.pi/2, np.pi, 3*np.pi/2])
+
+print(np.sin(x)) # seno 
+print(np.cos(x)) # cosseno 
+print(np.exp(x)) # exponencial 
+print(np.log(x[1:])) # logaritmo natural (evita log(0)) 
+print(np.abs([-1, 2, -3])) # valor absoluto
