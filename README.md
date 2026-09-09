@@ -1,1 +1,1 @@
-Repositório pertencente ao TDE 1 de Matemática Aplicada à Computação
+Repositório pertencente aos TDEs de Matemática Aplicada à Computação
